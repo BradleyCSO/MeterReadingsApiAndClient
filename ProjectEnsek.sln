@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadings.Api", "..\MeterReadings.Api\MeterReadings.Api.csproj", "{AACB0EB4-C69A-43A2-BC1D-AD65B4805B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadings.Api.Tests", "MeterReadings.Api.Tests\MeterReadings.Api.Tests.csproj", "{D565D59D-153E-4DF7-84E4-1B2C9F552CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AACB0EB4-C69A-43A2-BC1D-AD65B4805B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACB0EB4-C69A-43A2-BC1D-AD65B4805B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACB0EB4-C69A-43A2-BC1D-AD65B4805B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACB0EB4-C69A-43A2-BC1D-AD65B4805B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D565D59D-153E-4DF7-84E4-1B2C9F552CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D565D59D-153E-4DF7-84E4-1B2C9F552CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D565D59D-153E-4DF7-84E4-1B2C9F552CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D565D59D-153E-4DF7-84E4-1B2C9F552CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

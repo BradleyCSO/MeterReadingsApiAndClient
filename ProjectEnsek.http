@@ -1,0 +1,11 @@
+@ProjectEnsek_HostAddress = http://localhost:5197
+
+GET {{ProjectEnsek_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{ProjectEnsek_HostAddress}}/todos/1
+Accept: application/json
+
+###
